@@ -30,6 +30,7 @@ To Answer each question we need to import  libraries
 ## Libraries I am using in my project:
 import pandas :- For reading the data set and used to get some insightful information.
 
-summer.csv file is analysed and questions are answered accordingly
+summer.csv file is analysed and questions are answered accordingly.
+
 Most answers are in form of bar graphs and tables
  
