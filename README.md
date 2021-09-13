@@ -2,10 +2,10 @@
 Summer olympic analysis using CSV file in python
 
 
-This is an assignment from Elite Techno Group to us
-There were 8 questions for which we need answer through our specific  codes
+This is an assignment from Elite Techno Group to me.
+There were 8 questions for which we need answer through our specific  codes.
 
-This folder has a Summer.csv file having the details of the Summer Olympics of various sports, athletes, medals, etc from the year 1896 to 2012. It has 31,165 records
+This folder has a summer.csv file having the details of the Summer Olympics of various sports, athletes, medals, etc from the year 1896 to 2012. It has 31,165 records.
 
 ## QUESTIONS---
 
@@ -13,7 +13,7 @@ This folder has a Summer.csv file having the details of the Summer Olympics of v
 
 2. Which sports is having most number of golds so far?(Top 5)
 
-3. Which sport is having most number of medals so far? (Top 5)
+3. Which sports is having most number of medals so far? (Top 5)
 
 4. Which player has won most number of medals? (Top 5)
 
@@ -29,6 +29,7 @@ To Answer each question we need to import  libraries
 
 ## Libraries I am using in my project:
 import pandas :- For reading the data set and used to get some insightful information.
-Summer.csv file is analysed and questions are answered repectively
- Most answers are in form of bar graphs and tables
+
+summer.csv file is analysed and questions are answered accordingly
+Most answers are in form of bar graphs and tables
  
