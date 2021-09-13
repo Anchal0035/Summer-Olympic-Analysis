@@ -8,7 +8,8 @@ There were 8 questions for which we need answer through our specific  codes
 This folder has a Summer.csv file having the details of the Summer Olympics of various sports, athletes, medals, etc from the year 1896 to 2012. It has 31,165 records
 
 ## QUESTIONS---
-  1.In how many cities summer olympics held so far ?
+
+1.In how many cities summer olympics held so far ?
 
 2. Which sports is having most number of golds so far?(Top 5)
 
