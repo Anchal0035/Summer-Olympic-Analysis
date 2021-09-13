@@ -1,11 +1,6 @@
 # Summer-Olympic-Analysis
 Summer olympic analysis using CSV file in python
 
-## Contents
-This repository contains a two files
-
-1.Summer_Analysis.ipynb
-2.summer.csv
 
 This is an assignment from Elite Techno Group to us
 There were 8 questions for which we need answer through our specific  codes
